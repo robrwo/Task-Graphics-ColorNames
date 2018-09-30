@@ -14,7 +14,7 @@ use Graphics::ColorNames ();
 use Graphics::ColorNames::CSS;
 use Graphics::ColorNames::Crayola;
 use Graphics::ColorNames::EmergyC;
-use Graphics::ColorNames::GrayScale;
+# use Graphics::ColorNames::GrayScale;
 use Graphics::ColorNames::IE;
 use Graphics::ColorNames::Mozilla;
 use Graphics::ColorNames::Netscape;
