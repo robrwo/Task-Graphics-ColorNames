@@ -1,0 +1,4 @@
+Task-Graphics-ColorNames-*/
+Task-Graphics-ColorNames-*.tar.gz
+.build/
+cpanfile.snapshot
